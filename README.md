@@ -89,8 +89,13 @@ philosophy: "Building things that work. Breaking things to learn why."
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukona90&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukona90&layout=compact&theme=tokyonight&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/mukona90?style=for-the-badge&logo=github&label=Followers)](https://github.com/mukona90)
+[![Repos](https://img.shields.io/badge/Repos-14-181717?style=for-the-badge&logo=github)](https://github.com/mukona90?tab=repositories)
+[![Languages](https://img.shields.io/badge/Languages-TypeScript%20%7C%20Java-3178C6?style=for-the-badge)](https://github.com/mukona90)
+
+<br />
+
+<img src="https://ghchart.rshah.org/26a641/mukona90" alt="mukona90 contribution graph" />
 
 </div>
 
